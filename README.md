@@ -1,6 +1,6 @@
 # TheLook E-Commerce Analytics & Forecasting Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 
 TheLook E-Commerce Analytics Dashboard is an end-to-end Business Intelligence project built in Microsoft Excel using Power Pivot, DAX, PivotTables, PivotCharts, and interactive dashboard navigation.
 
@@ -14,7 +14,7 @@ The dashboard is organized into three main sections:
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 The main objectives of this project were to:
 
@@ -30,7 +30,7 @@ The main objectives of this project were to:
 
 ---
 
-## 📌 Key KPIs
+##  Key KPIs
 
 | KPI | Value |
 |---|---:|
@@ -43,7 +43,7 @@ The main objectives of this project were to:
 
 ---
 
-## 📈 Dashboard Structure
+##  Dashboard Structure
 
 ### 1. Executive Dashboard
 
@@ -104,7 +104,7 @@ Provides a forward-looking view of the business through:
 
 ---
 
-## 🔍 Business Questions Answered
+##  Business Questions Answered
 
 This dashboard can help stakeholders answer questions such as:
 
@@ -120,7 +120,7 @@ This dashboard can help stakeholders answer questions such as:
 
 ---
 
-## 🎨 Dashboard Features
+##  Dashboard Features
 
 - Interactive Year Slicer
 - Navigation buttons between dashboards
@@ -132,7 +132,7 @@ This dashboard can help stakeholders answer questions such as:
 
 ---
 
-## 💡 Project Outcome
+##  Project Outcome
 
 This project demonstrates how raw e-commerce data can be transformed into an interactive Business Intelligence solution using Excel.
 
@@ -140,7 +140,7 @@ It combines data modeling, DAX calculations, KPI development, interactive visual
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Bassant Mekkawy**
 
